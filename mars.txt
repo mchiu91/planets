@@ -3,3 +3,6 @@ it's hot
 fourth planet in solar system
 we should consider venus as a base
 Adding this to GitHub so we pull an updated version down to local
+
+-------------------------------------------
+Size: Mars < Venus < Earth
