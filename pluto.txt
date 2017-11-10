@@ -1,5 +1,11 @@
+Resolving conflict
+
 Is pluto still considered a planet?
 
 Idts
 
+<<<<<<< HEAD
 I'm just talking to myself
+=======
+&^#%$&^!%($*&!@)(*$&)!(*#%^)(!@*&$)!(*@#&)(!@^%)(!*@&#)(!@*&#
+>>>>>>> 13537def9f36f1aca13add064925a4bad17af9e2
